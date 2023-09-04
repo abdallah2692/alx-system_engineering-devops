@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello beautiful." | grep -o beautiful
+echo "Hello, World" | grep -o 0-hello_world
